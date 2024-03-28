@@ -18,18 +18,7 @@
    sodipodi:docname="RPi5_pos.svg"
    style="enable-background:new">
   <defs
-     id="defs2">
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter5005">
-      <feBlend
-         inkscape:collect="always"
-         mode="multiply"
-         in2="BackgroundImage"
-         id="feBlend5007" />
-    </filter>
-  </defs>
+     id="defs2" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -37,17 +26,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0828746"
-     inkscape:cx="416.615"
-     inkscape:cy="200.86338"
+     inkscape:zoom="1.3318103"
+     inkscape:cx="172.16529"
+     inkscape:cy="169.66705"
      inkscape:document-units="mm"
-     inkscape:current-layer="g8547"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="2560"
-     inkscape:window-height="1418"
-     inkscape:window-x="1592"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      fit-margin-top="0"
@@ -166,25 +155,18 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="background">
-    <g
-       style="display:inline;filter:url(#filter5005);enable-background:new"
-       transform="matrix(0.33950696,0,0,-0.34537084,-123.20726,90.739164)"
-       id="g8547">
-      <path
-         inkscape:connector-curvature="0"
-         id="path8549"
-         style="fill:#f5f5f5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.11909699"
-         d="M 362.37512,-50.930525 H 761.3256 V 264.36951 H 362.37512 Z" />
-    </g>
-  </g>
-  <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(20.741152,21.368429)">
+    <rect
+       transform="translate(-20.741152,-21.368429)"
+       style="enable-background:new;display:inline;opacity:1;fill:#f5f5f5;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.36873013;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1187"
+       width="133.45203"
+       height="107.71346"
+       x="-0.19425105"
+       y="-0.11074018" />
     <g
        transform="matrix(0.35277777,0,0,-0.35277777,-47.125543,162.38187)"
        inkscape:label="raspberry-pi-5-mechanical-drawing(2)"
@@ -1785,7 +1767,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 2"
-     style="display:inline;filter:url(#filter5005)"
+     style="display:inline;"
      transform="translate(20.741152,21.368429)">
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#c21e4a;stroke-width:0.25;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
